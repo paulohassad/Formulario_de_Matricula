@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Formulário de Matrícula — Estrelas do Amanhã</h1>
+<h1 align="center">🎓 Formulário de Matrícula - Estrelas do Amanhã</h1>
 
 <p align="center">
   <em>Projeto de página estática desenvolvida para praticar HTML e CSS, com foco em formulários, pseudo-classes, responsividade e layout com aside.</em>
@@ -14,13 +14,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Design%20no-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 💻 **Sobre o projeto**
 
-O **Formulário de Matrícula — Estrelas do Amanhã** é uma página web criada para **praticar a estruturação de formulários em HTML** e **aprimorar o uso de CSS avançado** com foco na experiência do usuário e boa semântica.  
+O **Formulário de Matrícula - Estrelas do Amanhã** é uma página web criada para **praticar a estruturação de formulários em HTML** e **aprimorar o uso de CSS avançado** com foco na experiência do usuário e boa semântica.  
 
 O layout apresenta uma **interface moderna e intuitiva**, com campos personalizados, uso de **pseudo-classes como :hover, :focus e :has()**, além de um **aside informativo** que complementa visualmente a página.  
 
@@ -33,8 +32,7 @@ O projeto faz parte do **desafio prático da formação FullStack da Rocketseat*
 ## 🖼️ **Prévia do projeto**
 
 <p align="center">
-  <img src="(<img width="1672" height="839" alt="image" src="https://github.com/user-attachments/assets/7d0acba1-d3b4-4eb5-beba-fbcd2028e2c0" />
-)" alt="Prévia do Formulário de Matrícula — Estrelas do Amanhã" width="800px">
+  <img src="https://github.com/user-attachments/assets/5c6adaac-ab09-40d4-9572-e4087bc90489" alt="Prévia do Formulário de Matrícula — Estrelas do Amanhã" width="800px"/>
 </p>
 
 ---
