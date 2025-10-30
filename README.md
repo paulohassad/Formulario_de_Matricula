@@ -33,7 +33,8 @@ O projeto faz parte do **desafio prático da formação FullStack da Rocketseat*
 ## 🖼️ **Prévia do projeto**
 
 <p align="center">
-  <img src="(<img width="1682" height="833" alt="image" src="https://github.com/user-attachments/assets/31284251-ca4c-41aa-b9b5-f859e00e96b3" />)" alt="Prévia do Formulário de Matrícula — Estrelas do Amanhã" width="800px">
+  <img src="(<img width="1672" height="839" alt="image" src="https://github.com/user-attachments/assets/7d0acba1-d3b4-4eb5-beba-fbcd2028e2c0" />
+)" alt="Prévia do Formulário de Matrícula — Estrelas do Amanhã" width="800px">
 </p>
 
 ---
